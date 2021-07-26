@@ -1,0 +1,22 @@
+.mainHeader {
+  background-color: white;
+  border: 1px;
+
+  box-shadow: 1px 1px 8px #888888;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.loginbtn {
+  margin-left: 20px;
+  text-decoration: none;
+}
+.loginbtn:hover {
+  text-decoration: none;
+}
+.loginbtn:active {
+  border: none;
+  text-decoration: none;
+  border-color: white;
+}

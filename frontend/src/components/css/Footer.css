@@ -1,0 +1,10 @@
+.fa-i {
+  border-radius: 50%;
+  width: 10px;
+  color: #f50057;
+  box-shadow: 1px 1px 8px #888888;
+  cursor: pointer;
+}
+.page-footer {
+  box-shadow: 1px 1px 8px #888888;
+}
