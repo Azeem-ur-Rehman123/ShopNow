@@ -1,7 +1,7 @@
 {
-  "name": "shopit-mern",
+  "name": "shope-now",
   "version": "1.0.0",
-  "description": "E-commerce website using mern",
+  "description": "zamStudio task mern",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
@@ -10,7 +10,7 @@
     "seeder": "node backend/utils/seeder.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Sujit Mohanty",
+  "author": "Azeem ur Rehman",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
